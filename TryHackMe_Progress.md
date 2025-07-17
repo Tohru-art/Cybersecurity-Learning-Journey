@@ -64,4 +64,4 @@ While TryHackMe doesn't have dedicated "soft skills" rooms, the practical, scena
 * **DFIR: An Introduction / Windows Forensics 1 & 2:** Foundational forensics.
 * **Intro to Malware Analysis:** Basic understanding of malicious software.
 
-By focusing on these structured paths and actively engaging with the labs, you'll gain both the technical prowess and the practical mindset needed to excel as a real SOC analyst.
+
