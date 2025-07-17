@@ -38,7 +38,7 @@ TryHackMe is one of many learning platform to gain knowledge about cybersecurity
 
 ## Projects (INCOMING)
 
-This section will display all independent project that i have completed.
+This section will display all independent projects that I have completed.
 [IN PROGRESS]
 
 ---
