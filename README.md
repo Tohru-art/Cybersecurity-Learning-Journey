@@ -1,7 +1,5 @@
 # My Cybersecurity Learning Journey
 
-Welcome to my personal cybersecurity learning journey repository! This space documents my hands-on experience, skill development, and continuous learning efforts in the field of cybersecurity. My goal is to transition into a Security Operations Center (SOC) Analyst role, and this repository showcases my dedication and practical application of defensive security concepts. I am committed to continuous learning and applying theoretical knowledge in practical scenarios.
-
 Welcome to my cybersecurity learning journey. I created this repository to help me track and orgranize my learning plans and also help others that are following the same path as me to become familiar and have a proper idea, and have more nuance about topics that I discovered through TryHackMe, HackTheBox and other learning platform, this repo will help learners to follow a path that I've set for them to get all the information and necessary ressources at their disposition also to learn the responsabilities on becoming a SOC Analyst!
 
 /!\ - You do not need to follow at 100% my learning path, since different people may have other ways to achieve or learn cybersecurity. This space mostly documents my own experiences that I've gained through labs, skill development, and continuous learning efforts in the field. So, please be aware that this repo is non-exhaustive.
