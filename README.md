@@ -53,4 +53,4 @@ Details of my learning.
 I will be glad to connect with fellow cybersecurity professionals. Feel free to reach out!
 
 * **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/will-garlens-pierre/)
-* **Email (Optional):** willgarlensp@gmail.com
+* **Email:** willgarlensp@gmail.com
